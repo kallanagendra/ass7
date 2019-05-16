@@ -1,0 +1,9 @@
+[0:80000] Started child 1 with PID=19624
+[0:580000] Started child 2 with PID=19625
+[3:357940000] child 19625 terminated with exit code 0
+[3:357940000] child 19624 terminated with exit code 0
+[3:357940000] Started child 3 with PID=19626
+[3:357960000] Started child 4 with PID=19627
+[5:858020000] child 19626 terminated with exit code 0
+[7:195760000] child 19627 terminated with exit code 0
+[7:195780000] oss done
